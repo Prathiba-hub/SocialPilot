@@ -71,7 +71,6 @@ export default function Hero() {
                   priority
                   // fill
                   className="object-contain"
-                  priority
                 />
                
               </div>
